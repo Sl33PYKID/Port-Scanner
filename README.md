@@ -6,7 +6,8 @@ to run the script type python portscanner.py :) thats all you need to use.
 
 
 
-![port](https://user-images.githubusercontent.com/116701630/199602667-4fec9aae-0312-4d66-8f5b-67d436391e63.PNG)
+
+![port](https://user-images.githubusercontent.com/116701630/199602859-cb434364-0b3a-41ab-bd73-4e57c9815baf.PNG)
 
 
 
